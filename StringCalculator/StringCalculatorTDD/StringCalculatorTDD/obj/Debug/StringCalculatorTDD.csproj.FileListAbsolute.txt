@@ -1,0 +1,7 @@
+C:\dev\StringCalculator\StringCalculatorTDD\StringCalculatorTDD\bin\Debug\StringCalculatorTDD.exe.config
+C:\dev\StringCalculator\StringCalculatorTDD\StringCalculatorTDD\bin\Debug\StringCalculatorTDD.exe
+C:\dev\StringCalculator\StringCalculatorTDD\StringCalculatorTDD\bin\Debug\StringCalculatorTDD.pdb
+C:\dev\StringCalculator\StringCalculatorTDD\StringCalculatorTDD\obj\Debug\StringCalculatorTDD.csprojResolveAssemblyReference.cache
+C:\dev\StringCalculator\StringCalculatorTDD\StringCalculatorTDD\obj\Debug\StringCalculatorTDD.csproj.CoreCompileInputs.cache
+C:\dev\StringCalculator\StringCalculatorTDD\StringCalculatorTDD\obj\Debug\StringCalculatorTDD.exe
+C:\dev\StringCalculator\StringCalculatorTDD\StringCalculatorTDD\obj\Debug\StringCalculatorTDD.pdb
